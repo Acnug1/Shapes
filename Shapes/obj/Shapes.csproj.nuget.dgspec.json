@@ -4,14 +4,14 @@
     "C:\\Projects\\Pet\\GitHub\\Shapes\\Shapes\\Shapes.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj": {
+    "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj",
+        "projectUniqueName": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj",
         "projectName": "ShapeLibraryNet50",
-        "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj",
+        "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj",
         "packagesPath": "C:\\Users\\Lexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\obj\\",
+        "outputPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj": {
-                "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj"
+              "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj": {
+                "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj"
               }
             }
           }

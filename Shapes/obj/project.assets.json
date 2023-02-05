@@ -17,8 +17,8 @@
   "libraries": {
     "ShapeLibraryNet50/1.0.0": {
       "type": "project",
-      "path": "../ShapeLibraryNet50.csproj",
-      "msbuildProject": "../ShapeLibraryNet50.csproj"
+      "path": "../ShapeLibraryNet50/ShapeLibraryNet50.csproj",
+      "msbuildProject": "../ShapeLibraryNet50/ShapeLibraryNet50.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj": {
-              "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50.csproj"
+            "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj": {
+              "projectPath": "C:\\Projects\\Pet\\GitHub\\Shapes\\ShapeLibraryNet50\\ShapeLibraryNet50.csproj"
             }
           }
         }

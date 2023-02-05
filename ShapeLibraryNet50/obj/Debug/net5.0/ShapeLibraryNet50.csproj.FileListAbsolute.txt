@@ -17,3 +17,15 @@ C:\Projects\Pet\GitHub\Shapes\obj\Debug\net5.0\ShapeLibraryNet50.csproj.CoreComp
 C:\Projects\Pet\GitHub\Shapes\obj\Debug\net5.0\ShapeLibraryNet50.dll
 C:\Projects\Pet\GitHub\Shapes\obj\Debug\net5.0\ref\ShapeLibraryNet50.dll
 C:\Projects\Pet\GitHub\Shapes\obj\Debug\net5.0\ShapeLibraryNet50.pdb
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\bin\Debug\net5.0\ShapeLibraryNet50.deps.json
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\bin\Debug\net5.0\ShapeLibraryNet50.dll
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\bin\Debug\net5.0\ref\ShapeLibraryNet50.dll
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\bin\Debug\net5.0\ShapeLibraryNet50.pdb
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.csproj.AssemblyReference.cache
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.AssemblyInfoInputs.cache
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.AssemblyInfo.cs
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.csproj.CoreCompileInputs.cache
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.dll
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ref\ShapeLibraryNet50.dll
+C:\Projects\Pet\GitHub\Shapes\ShapeLibraryNet50\obj\Debug\net5.0\ShapeLibraryNet50.pdb
